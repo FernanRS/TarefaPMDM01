@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea01</string>
+    <string name="Enviar">Send</string>
+    <string name="Nombre"></string>
+    <string name="textview"></string>
+    <string name="introduce_un_texto">Introduce un texto</string>
+</resources>
